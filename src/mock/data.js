@@ -10,8 +10,8 @@ export const headData = {
 // HERO DATA
 export const heroData = {
   title: '',
-  name: '',
-  subtitle: '',
+  name: 'Steven Kim',
+  subtitle: 'Junior Developer',
   cta: '',
 };
 
@@ -28,7 +28,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'project1.png',
     title: '',
     info: '',
     info2: '',
@@ -37,7 +37,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'project2.png',
     title: '',
     info: '',
     info2: '',
@@ -46,7 +46,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'project3.png',
     title: '',
     info: '',
     info2: '',
